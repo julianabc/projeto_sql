@@ -1,0 +1,1 @@
+/* Qual o dia com maior engajamento de cada aluno que inicou o curso no dia 01 */
